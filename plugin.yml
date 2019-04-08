@@ -1,0 +1,5 @@
+name: HideTabCompleteSlash
+version: 1.1.1
+authors: [artbnz]
+main: me.artbnz.HideTabCompleteSlash.Main
+depend: [ProtocolLib,ProtocolSupport]
